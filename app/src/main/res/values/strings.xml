@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="number_one">Number 1</string>
+    <string name="number_two">Number 2</string>
+    <string name="button_ok">OK</string>
+    <string name="button_addition">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="button_multiplication">*</string>
+    <string name="buttton_division">/</string>
+</resources>
